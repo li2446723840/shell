@@ -1,0 +1,12 @@
+.
+..
+build.sh
+git.sh
+ka.js
+ka-web.sh
+myfile
+node_modules
+package.json
+package-lock.json
+test.sh
+text.txt
